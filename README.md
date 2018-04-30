@@ -1,1 +1,1 @@
-"# CMPE188" 
+"CMPE188 Project" 
